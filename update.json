@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "Automated update for version 1.0.0",
+  "pub_date": "2026-03-15T17:35:23Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zamJLc0ZwaUNMTjZrWnhaQTlLOFpTeGI3ZWFtMldZQmlBSkI0NHVNT2ZHZDN5WEN4bjdZWm5KV3dQYm9GZ1RtU2tYdk9zVU1jVk1ZQTVyUHpaSDhJZVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTk2MTAyCWZpbGU6RGVudGFRdW90ZVByb18xLjAuMF94NjQtc2V0dXAubnNpcy56aXAKQ0lkaXlySlFuR0VMOWJkd3pzMzVPUVFlNytCRWpucEFFTTRYMHFweVBpbGlGSTlFVlJBRDFSakkwcFlSNS80MnRuTmVlZ3FMT0t0anJkeFR3NGIyQkE9PQo=",
+      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.0/DentaQuotePro_1.0.0_x64-setup.nsis.zip"
+    }
+  }
+}
