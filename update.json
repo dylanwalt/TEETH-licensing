@@ -1,19 +1,19 @@
 {
-  "version": "v1.0.9",
-  "notes": "Automated multi-platform update for version 1.0.9",
-  "pub_date": "2026-03-16T10:33:48Z",
+  "version": "v1.0.10",
+  "notes": "Automated multi-platform update for version 1.0.10",
+  "pub_date": "2026-03-16T10:43:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zalV0cGhkcmxOYjJXT3RnUEZsbFNGQ2hvWEhORnZGamRYaGoyMEJyandTMVYvODliZk4vQVdNeDNrVHk3SEhwSHJnaGlubzFZOXJGT01aU21IZThrSHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU3MjAyCWZpbGU6RGVudGFRdW90ZVByb18xLjAuOV94NjQtc2V0dXAubnNpcy56aXAKWDZaKzkwRGtNLzJzZU1qY1Y4RzlVeXVyc3ZldWorbUF0bmxHamdSSTQ4Q01sVnVkT3lOQXA4K01YZFg0UFNJM1hNQzFHQzJOSW42UnI4bG9uVGVJQXc9PQo=",
-      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.9/windows/DentaQuotePro_1.0.9_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zalUwcWhpSFBEU1RrS2dtLzhQUnpLZmtwUEdTM25hTUlRZEFCbzJSV0h4RWdZbXZyalVKQXZ3cnlXaGhGYm40UFQ1cTFNeHpoanZQQUJpODZrbWs4WHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU3NzkxCWZpbGU6RGVudGFRdW90ZVByb18xLjAuMTBfeDY0LXNldHVwLm5zaXMuemlwCkRpblErc29xSzJzMFptU1BEeFhqc3dxb1ovQXhuSXdKUTNhTXp0Q2k4Szg5Y005VVV3K2dSSDZkQmVoYUt3aDVBMm13ZUtneEkyQTZaVGRMWFBQVUJRPT0K",
+      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.10/windows/DentaQuotePro_1.0.10_x64-setup.nsis.zip"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zaldQV2hPVExFUWNVNXRJNEI5MGRpUkc5TnpRQXBzSVZIdXA2Q20wQkcrbGRXRGdhU0ZlVklVWkhiNWlWUkluL1NNTG0wb3hEa1pRbDI2M2lLdFg1L2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU2Njc0CWZpbGU6RGVudGFRdW90ZVByby5hcHAudGFyLmd6Cnh5NHFtcTVuaXlJb2VOKzJzcU4wRFFLK1BQY3JrN3JqMFdwN1ZHb1YvOE9pQnIzZEZuaHVLdWpsWDlMVGhiOHlUNEs5bkZwNmVuVWNyNncyREJMNEJRPT0K",
-      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.9/macos/DentaQuotePro.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zalI3NTNUT1ZyNlNCbXNWa3B6UFpIMUIvRzVIdXo1Y1JBZVpRSmpqZHdiZExIVC9xcnNud2QzMFd3eE9tSmZqWHBQcmY2Y1pBS01zLzhoZzVsRkF2dlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU3MjAzCWZpbGU6RGVudGFRdW90ZVByby5hcHAudGFyLmd6CnFxOS9tNTloVEpURm1lZ1pDMWpUdUdoenAxdm5yYmwyQkdIbXBmSlVLbEJUUDN2T1ZoNWsyMWNocUxRTXk3blcrb08wa1RJc0hUN2E4RDVOUk5PVURnPT0K",
+      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.10/macos/DentaQuotePro.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zaldQV2hPVExFUWNVNXRJNEI5MGRpUkc5TnpRQXBzSVZIdXA2Q20wQkcrbGRXRGdhU0ZlVklVWkhiNWlWUkluL1NNTG0wb3hEa1pRbDI2M2lLdFg1L2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU2Njc0CWZpbGU6RGVudGFRdW90ZVByby5hcHAudGFyLmd6Cnh5NHFtcTVuaXlJb2VOKzJzcU4wRFFLK1BQY3JrN3JqMFdwN1ZHb1YvOE9pQnIzZEZuaHVLdWpsWDlMVGhiOHlUNEs5bkZwNmVuVWNyNncyREJMNEJRPT0K",
-      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.9/macos/DentaQuotePro.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTenpCa3IrUm1zalI3NTNUT1ZyNlNCbXNWa3B6UFpIMUIvRzVIdXo1Y1JBZVpRSmpqZHdiZExIVC9xcnNud2QzMFd3eE9tSmZqWHBQcmY2Y1pBS01zLzhoZzVsRkF2dlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjU3MjAzCWZpbGU6RGVudGFRdW90ZVByby5hcHAudGFyLmd6CnFxOS9tNTloVEpURm1lZ1pDMWpUdUdoenAxdm5yYmwyQkdIbXBmSlVLbEJUUDN2T1ZoNWsyMWNocUxRTXk3blcrb08wa1RJc0hUN2E4RDVOUk5PVURnPT0K",
+      "url": "https://github.com/dylanwalt/TEETH-licensing/raw/main/releases/1.0.10/macos/DentaQuotePro.app.tar.gz"
     }
   }
 }
